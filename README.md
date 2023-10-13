@@ -13,26 +13,26 @@ Key Features:
 
 Description:
 
-Jyoti gives a single line description of the surrounding details
+sahana gives a single line description of the surrounding details
 Road Conditions: Jyoti gives the user an overview of the road conditions, which would further the visually impaired accordingly.
-Jyoti also specifically mentions if the user is at common places like classrooms, kitchens, bedrooms, etc
+sahana also specifically mentions if the user is at common places like classrooms, kitchens, bedrooms, etc
 Responds the number of people, objects, etc in the frame of the webcam.
 Find:
 
-Jyoti resonds to commands like find my purse?, check if my watch is in this room? depending upon whether @Entity is present in the frame of the camers
+sahana resonds to commands like find my purse?, check if my watch is in this room? depending upon whether @Entity is present in the frame of the camers
 Read:
 
-Jyoti also detects text from images and reads it loud.
+sahana also detects text from images and reads it loud.
 As a further application it can summarize articles from newspapers.
 Fill forms
 
-Jyoti also reads out forms (majorly applicable for bank purposes)
+sahana also reads out forms (majorly applicable for bank purposes)
 Mobile Interactions
 
 It can read out notifications from mobile and as a further application respond to messages, emails, calender, etc
 Add ons
 
-Jyoti serves the basic features of a chat bot i.e. responds to question including time, lighting conditions, basic wh questions, etc.
+sahana serves the basic features of a chat bot i.e. responds to question including time, lighting conditions, basic wh questions, etc.
 Tech- stacks used:
 
 1. SpeechRecognizer, Google API for speech to text conversion
